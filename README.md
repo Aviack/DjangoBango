@@ -42,3 +42,11 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
 <h1>OUTPUT</h1>
 you will get two files with the name domainIpFile.txt [maps Ip with the domain name]
 second is Finalresponse which is the final output which contains server response which may contain redis cache uri or mongoDB URI
+
+  
+<h1>Installation</h1>
+ 
+    Clone the repository to your machine. git clone https://github.com/Aviack/DjangoBango.git
+    cd DjangoBango
+    Install required modules by running the code pip install -r requirements.txt
+    READY!
