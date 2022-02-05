@@ -40,8 +40,9 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
   
   
 <h1>OUTPUT</h1>
-you will get two files with the name domainIpFile.txt [maps Ip with the domain name]
+You will get two files with the name domainIpFile.txt [maps Ip with the domain name]
 second is Finalresponse which is the final output which contains server response which may contain redis cache uri or mongoDB URI
+You will get above two file in same directory you provide as argument
 
   
 <h1>Installation</h1>
