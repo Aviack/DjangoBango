@@ -37,3 +37,8 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
   
   
 <h2>Usage1</h2><h4>python DjangoBango.py  -d  'C:\\Users\\AVADH\\Desktop\\Automation\\domain.txt'  -s  "TnJ92ZwOblwDbq7jbrRUxxxxxxxxx"</h4>
+  
+  
+<h1>OUTPUT</h1>
+you will get two files with the name domainIpFile.txt [maps Ip with the domain name]
+second is Finalresponse which is the final output which contains server response which may contain redis cache uri or mongoDB URI
