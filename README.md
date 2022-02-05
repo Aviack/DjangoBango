@@ -1,1 +1,1 @@
-##DjangoDebugModeEnabled
+#DjangoDebugModeEnabled
