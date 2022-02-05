@@ -1,1 +1,1 @@
-# DjangoBango
+##DjangoDebugModeEnabled
