@@ -4,7 +4,7 @@
 
 
 <h1>Note</h1>
-<h2>You need to have shodan Api key and type shodan init <your-api-key> to activate your account</h2>
+You need to have shodan Api key and type "shodan init XXXXXXXXapikeyXXXXX" to activate your account
 
 <h1>Description</h1>
 DjangoBango find the django debug mode enabled server with the help of shodan 
