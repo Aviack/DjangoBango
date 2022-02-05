@@ -35,18 +35,6 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
 <td>./urllist.txt, ../../urllist.txt, etc.</td>
 <td>Just provide the path where the file is located :)</td>
 </tr>
-<tr>
-<td>-d</td>
-<td>single directory to scan</td>
-<td>admin or /admin or admin/ or /admin/</td>
-<td>All these example usages are interpreted in the same way</td>
-</tr>
-<tr>
-<td>-D</td>
-<td>path to list of directories</td>
-<td>./dirlist.txt, ../../dirlist.txt, etc.</td>
-<td>Just provide the path where the file is located :)</td>
-</tr>
 </tbody>
 </table>
   
