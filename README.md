@@ -19,21 +19,18 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
 <th>Argument</th>
 <th>Description</th>
 <th>Examples</th>
-<th>Note</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>-u</td>
-<td>single URL to scan</td>
-<td><a href="http://example.com" rel="nofollow">http://example.com</a> or <a href="http://example.com/" rel="nofollow">http://example.com/</a></td>
-<td>All these example usages are interpreted in the same way</td>
+<td>-d</td>
+<td>provide path to the wordlist</td>
+<td>'C:\\Users\\AVADH\\Desktop\\Automation\\domain.txt'</td>
 </tr>
 <tr>
-<td>-U</td>
-<td>path to list of URLs</td>
-<td>./urllist.txt, ../../urllist.txt, etc.</td>
-<td>Just provide the path where the file is located :)</td>
+<td>-s</td>
+<td>Provide Shodan API key</td>
+<td>TnJ92ZwOblwDxxxxxxxxx</td>
 </tr>
 </tbody>
 </table>
