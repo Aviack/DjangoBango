@@ -36,3 +36,4 @@ domain list should be in specific format --> www.google.com[Invalid] || google[v
 </table>
   
   
+<h2>Usage1 : python DjangoBango.py -d 'C:\\Users\\AVADH\\Desktop\\Automation\\domain.txt' -s "TnJ92ZwOblwDbq7jbrRUxxxxxxxxx"</h2>
